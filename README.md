@@ -1,5 +1,5 @@
 # Introduction
-Part of code from a server side project, the code include handling and validation.
+Code from a server side project, the code above include handling events,exceptions and validation such as user details and login session.
 
 
 
